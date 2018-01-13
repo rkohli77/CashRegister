@@ -1,9 +1,9 @@
 # CashRegister
 
-###About the App
+### About the App
 This is a cash register app build in Objective-C.
 
-###Features
+### Features
 - This is a small example of an online cash register.
 - The functionality uses a calculator, picker view to generate and calculate order.
 - It also incorporates segues, table view controllers.
